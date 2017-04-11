@@ -1,4 +1,5 @@
-Lab 10 data structures & algorithms
+Queues and Stacks with Node's module export pattern and ES6
+
 ====
 
 # Topics
